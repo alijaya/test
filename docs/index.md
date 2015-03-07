@@ -14,6 +14,7 @@ For full documentation visit [mkdocs.org](http://mkdocs.org). &copy;
 * Ali Jaya Meilio
 * Anthony
 * Ignatius Juan Pradipta
+* Makhluk Gaib
 
 Ganteng banget cuy
 
