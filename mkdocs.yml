@@ -2,4 +2,5 @@ site_name: Ali Jaya Meilio ganteng
 pages:
 - [index.md, Home]
 - [about.md, About]
+- [juan.md, Juan]
 theme: readthedocs
