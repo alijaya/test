@@ -1,6 +1,6 @@
 # Welcome to Ali Jaya Meilio
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+For full documentation visit [mkdocs.org](http://mkdocs.org). &copy;
 
 ## Commands
 
@@ -8,6 +8,14 @@ For full documentation visit [mkdocs.org](http://mkdocs.org).
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs help` - Print this help message.
+
+## Editor
+
+<ul>
+<li>Ali</li>
+<li>Anthony</li>
+<li>Juan</li>
+</ul>
 
 ## Project layout
 
