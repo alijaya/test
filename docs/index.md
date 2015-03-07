@@ -13,7 +13,7 @@ For full documentation visit [mkdocs.org](http://mkdocs.org). &copy;
 
 * Ali Jaya Meilio
 * Anthony
-* Ignatius Juan Pradipta
+* Ignatius Juan Pradipta Jelek
 * Makhluk Gaib
 
 Ganteng banget cuy
