@@ -17,6 +17,8 @@ For full documentation visit [mkdocs.org](http://mkdocs.org). &copy;
 <li>Juan</li>
 </ul>
 
+Ganteng banget cuy
+
 ## Project layout
 
     mkdocs.yml    # The configuration file.
