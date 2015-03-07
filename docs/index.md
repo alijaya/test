@@ -16,6 +16,8 @@ For full documentation visit [mkdocs.org](http://mkdocs.org). &copy;
 * Ignatius Juan Pradipta
 * Makhluk Gaib
 
+Ganteng banget cuy
+
 ## Project layout
 
     mkdocs.yml    # The configuration file.
