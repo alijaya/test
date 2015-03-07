@@ -11,11 +11,9 @@ For full documentation visit [mkdocs.org](http://mkdocs.org). &copy;
 
 ## Editor
 
-<ul>
-<li>Ali</li>
-<li>Anthony</li>
-<li>Juan</li>
-</ul>
+* Ali Jaya Meilio
+* Anthony
+* Ignatius Juan Pradipta
 
 ## Project layout
 
